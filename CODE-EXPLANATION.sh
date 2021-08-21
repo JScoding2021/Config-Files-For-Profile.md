@@ -6,6 +6,7 @@
 >> > 
 >>> ![alt](https://avatars.githubusercontent.com/u/81769195?s=48&v=4 "my profile PiCtUrE")
 #profile picture in the same nested blockquote
+#all three pictures automatically change when I change my profile picture in settings
 - 👋 Hi, I’m @JavascriptCoder999
 #Wave
 - 👀 I’m interested in coding scratch, html and javascript
