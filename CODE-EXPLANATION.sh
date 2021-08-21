@@ -55,15 +55,23 @@ ADD ME PLEASE
 ```diff
 #opens a diff code file for coloured text
 +spotify: ducko'bama_961
-'#
+'#my spotify in green
 ```
+#end diff code // text
 ```bash
+#open bash code w/ markdown for grey coloured text
 #If you follow me i will follow you back
+#message in grey
 ```
+#close bash text // code
 ```asciidoc
+#open Asciidoc code // text for coloured text
 = wow dark blue =
+#message in dark blue and bold
 ```
+#end asciidoc code // text
 <!---
 JavascriptCoder999/JavascriptCoder999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#default git message
